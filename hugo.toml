@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'PY20555STI'
+theme = 'ananke'
+
+[params]
+  featured_image = "/images/arena_banner.jpeg"
+
+[[menu.main]]
+  name ="Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
+
