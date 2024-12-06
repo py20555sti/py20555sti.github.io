@@ -1,8 +1,24 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
 featured_image: "/images/arena_banner.jpeg"
 ---
-{{< figure src="/images/arena.jpeg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+The first sentence is always the hardest; from now on it shall be easier.
+
+{{<gallery
+    globalMatch="images/forest/*"
+    sortOrder="asc"
+    rowHeight="150"
+    margins="5"
+    thumbnailResizeOptions="800x800 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+>}}
+
+Ah yes, at the beginning there was the Forester. If I had to describe this car in a single sentence, it would be: 'A perfect car (except for all its flaws).' We've been together since 2022, and I still can't get over how good a car it actually is.
+
+Then the STI, and let me tell you, wooof, that car does deliver!
+
+Read on to get to know both of them a wee better.
