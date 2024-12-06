@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'PY20555STI'
-theme = ["gohugo-theme-ananke", "hugo-shortcode-gallery"]
 
 [params]
   featured_image = "/images/arena_banner.jpeg"
