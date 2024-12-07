@@ -3,3 +3,5 @@
 resources/_gen/
 public
 themes
+assets/jsconfig.json
+TODO.md
