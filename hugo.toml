@@ -4,6 +4,7 @@ title = 'PY20555STI'
 
 [params]
   featured_image = "/images/arena_banner.jpg"
+  favicon = "favicon.ico"
   [[menu.main]]
     name ="Home"
     url = "/"
