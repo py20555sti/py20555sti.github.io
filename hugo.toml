@@ -5,6 +5,7 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
 [params]
   featured_image = "/images/arena_banner.jpg"
+  favicon = "favicon.ico"
   [[menu.main]]
     name ="Home"
     url = "/"
