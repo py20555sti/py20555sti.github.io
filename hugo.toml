@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'PY20555STI'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
+[pagination]
+  pagerSize = 9
+
 [params]
   featured_image = "/images/arena_banner.jpg"
   favicon = "favicon.ico"
@@ -22,6 +25,9 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+[params.ananke]
+  show_recent_posts = true
 
 [module]
   [[module.imports]]
