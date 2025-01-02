@@ -10,6 +10,7 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
   featured_image = "/images/arena_banner.jpg"
   favicon = "favicon.ico"
   recent_posts_number = 10
+  read_more_copy = "Read more about this entry"
   [[menu.main]]
     name ="Home"
     url = "/"
