@@ -9,3 +9,8 @@ Read on to get to know both of them a wee bit better.
 
 * 2002 MY03 Subaru Forester SG5 2.0XT 4AT
 * 2007 MY07 Subaru Impreza WRX STI GDF 2.5T 6MT
+
+Oh, wait! There is more...
+* 1998 MY98 Subaru Impreza WRX Type R STi Version 4
+
+Yeah, that one is bonkers too!
