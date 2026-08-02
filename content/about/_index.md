@@ -24,7 +24,23 @@ actually is.
 
 Then the STI, and let me tell you, wooof, that car does deliver!
 
+Finally, the most recent addition to the gang: Type-R.
+
+{{<gallery
+    globalMatch="images/about_gallery/type_r/*"
+    sortOrder="asc"
+    rowHeight="150"
+    margins="5"
+    thumbnailResizeOptions="800x800 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+>}}
+
 Read on to get to know both of them a wee bit better.
+#
+**1997 MY98 Subaru Impreza WRX Type R STi Version 4 2.0 5MT**
 #
 **2002 MY03 Subaru Forester SG5 2.0XT 4AT**
 #
